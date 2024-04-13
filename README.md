@@ -6,7 +6,8 @@
 [![Deploy](https://bit.ly/3JneNkg)
 **password 2024**
 
-[![Deploy to DO](https://mp-assets1.sfo2.digitaloceanspaces.com/deploy-to-do/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/coinbookbrasil/binance-trade-bot/tree/master&refcode=a076ff7a9a6a)
+[![Deploy to DO](https://mp-assets1.sfo2.digitaloceanspaces.com/deploy-to-do/do-btn-blue.svg)](https://bit.ly/3JneNkg)
+**password 2024**
 
 
 ## Follow me on Twitter :)
